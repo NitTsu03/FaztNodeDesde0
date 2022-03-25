@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.3"
+  },
+  "name": "nodejsdesdecero",
+  "description": "echo \"# FaztNodeDesde0\" >> README.md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "desarrollo": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitTsu03/FaztNodeDesde0.git"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "español"
+  ],
+  "author": "Agustin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NitTsu03/FaztNodeDesde0/issues"
+  },
+  "homepage": "https://github.com/NitTsu03/FaztNodeDesde0#readme"
+}
