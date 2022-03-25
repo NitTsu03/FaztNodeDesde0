@@ -1,3 +1,6 @@
+const math = {};
+
+
 //Sumar
 function add(x1, x2) {
     return x1 + x2;
@@ -22,7 +25,9 @@ function divide(x1, x2) {
     }
 }
 
-exports.add = add;
-exports.substract = substract;
-exports.multiply = multiply;
-exports.divide = divide;
+math.add = add;
+math.substract = substract;
+math.multiply = multiply;
+math.divide = divide;
+
+module.exports = math
