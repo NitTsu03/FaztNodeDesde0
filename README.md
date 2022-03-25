@@ -17,3 +17,8 @@ hola-mundo.js
 console.log('Hi Word!');
 //node hola-mundo.js
 
+Para iniciar un script de npm creado por nosostros, hay que usar el comando:
+npm run "name script"
+
+
+
